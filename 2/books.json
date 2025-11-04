@@ -1,0 +1,248 @@
+{
+  "fantasy_books": [
+    {
+      "category": "fantasy",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "language": "English",
+      "imageLink": "lord.jpg",
+      "year": 1954
+    },
+    {
+      "category": "fantasy",
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "language": "English",
+      "imageLink": "game.jpg",
+      "year": 1996
+    },
+    {
+      "category": "fantasy",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "language": "English",
+      "imageLink": "harry.jpg",
+      "year": 1997
+    },
+    {
+      "category": "fantasy",
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "language": "English",
+      "imageLink": "wind.jpg",
+      "year": 2007
+    },
+    {
+      "category": "fantasy",
+      "title": "The Way of Kings",
+      "author": "Brandon Sanderson",
+      "language": "English",
+      "imageLink": "king.jpg",
+      "year": 2010
+    },
+    {
+      "category": "fantasy",
+      "title": "The Eye of the World (The Wheel of Time, #1)",
+      "author": "Robert Jordan",
+      "language": "English",
+      "imageLink": "world.jpg",
+      "year": 1990
+    },
+    {
+      "category": "fantasy",
+      "title": "Mistborn: The Final Empire",
+      "author": "Brandon Sanderson",
+      "language": "English",
+      "imageLink": "final.jpg",
+      "year": 2006
+    },
+    {
+      "category": "fantasy",
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J. Maas",
+      "language": "English",
+      "imageLink": "rose.jpg",
+      "year": 2015
+    },
+    {
+      "category": "fantasy",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "language": "English",
+      "imageLink": "hobbit.jpg",
+      "year": 1937
+    },
+    {
+      "category": "fantasy",
+      "title": "A Wizard of Earthsea",
+      "author": "Ursula K. Le Guin",
+      "language": "English",
+      "imageLink": "wizard.jpg",
+      "year": 1968
+    }
+  ],
+  "action_books": [
+    {
+      "category": "action",
+      "title": "Jurassic Park",
+      "author": "Michael Crichton",
+      "language": "English",
+      "imageLink": "jurssic.webp",
+      "year": 1990
+    },
+    {
+      "category": "action",
+      "title": "The Bourne Identity",
+      "author": "Robert Ludlum",
+      "language": "English",
+      "imageLink": "bourne.jpg",
+      "year": 1980
+    },
+    {
+      "category": "action",
+      "title": "The Hunt for Red October",
+      "author": "Tom Clancy",
+      "language": "English",
+      "imageLink": "redoctober.jpg",
+      "year": 1984
+    },
+    {
+      "category": "action",
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "language": "English",
+      "imageLink": "hungergames.jpg",
+      "year": 2008
+    },
+    {
+      "category": "action",
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "language": "French",
+      "imageLink": "montecristo.jpg",
+      "year": 1844
+    },
+    {
+      "category": "action",
+      "title": "I Am Pilgrim",
+      "author": "Terry Hayes",
+      "language": "English",
+      "imageLink": "pilgrim.jpg",
+      "year": 2014
+    },
+    {
+      "category": "action",
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "language": "English",
+      "imageLink": "hailmary.jpg",
+      "year": 2021
+    },
+    {
+      "category": "action",
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "language": "Swedish",
+      "imageLink": "dragontattoo.jpg",
+      "year": 2005
+    },
+    {
+      "category": "action",
+      "title": "Red Rising",
+      "author": "Pierce Brown",
+      "language": "English",
+      "imageLink": "redrising.jpg",
+      "year": 2014
+    },
+    {
+      "category": "action",
+      "title": "Timeline",
+      "author": "Michael Crichton",
+      "language": "English",
+      "imageLink": "timeline.jpg",
+      "year": 1999
+    }
+  ],
+  "romance_books": [
+    {
+      "category": "romance",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "language": "English",
+      "imageLink": "pride.jpg",
+      "year": 1813
+    },
+    {
+      "category": "romance",
+      "title": "Outlander",
+      "author": "Diana Gabaldon",
+      "language": "English",
+      "imageLink": "outlander.jpg",
+      "year": 1991
+    },
+    {
+      "category": "romance",
+      "title": "The Hating Game",
+      "author": "Sally Thorne",
+      "language": "English",
+      "imageLink": "hating.jpg",
+      "year": 2016
+    },
+    {
+      "category": "romance",
+      "title": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "language": "English",
+      "imageLink": "end.jpg",
+      "year": 2016
+    },
+    {
+      "category": "romance",
+      "title": "Red, White & Royal Blue",
+      "author": "Casey McQuiston",
+      "language": "English",
+      "imageLink": "royal.jpg",
+      "year": 2019
+    },
+    {
+      "category": "romance",
+      "title": "The Kiss Quotient",
+      "author": "Helen Hoang",
+      "language": "English",
+      "imageLink": "kiss.jpg",
+      "year": 2018
+    },
+    {
+      "category": "romance",
+      "title": "Beach Read",
+      "author": "Emily Henry",
+      "language": "English",
+      "imageLink": "beach.jpg",
+      "year": 2020
+    },
+    {
+      "category": "romance",
+      "title": "The Duke and I (Bridgerton, #1)",
+      "author": "Julia Quinn",
+      "language": "English",
+      "imageLink": "duke.jpg",
+      "year": 2000
+    },
+    {
+      "category": "romance",
+      "title": "A Court of Mist and Fury (ACOTAR, #2)",
+      "author": "Sarah J. Maas",
+      "language": "English",
+      "imageLink": "mist.webp",
+      "year": 2016
+    },
+    {
+      "category": "romance",
+      "title": "Twisted Love",
+      "author": "Ana Huang",
+      "language": "English",
+      "imageLink": "twisted.jpg",
+      "year": 2021
+    }
+  ]
+}
