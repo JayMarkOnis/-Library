@@ -1,7 +1,7 @@
 This project is a Digital Library Organizer built in PHP that demonstrates three core Computer Science concepts:
 
- Binary Search Tree (BST)
- Hash Tables (Associative Arrays)
+ Binary Search Tree (BST),
+ Hash Tables (Associative Arrays),
  Recursion
 
 It simulates a simple library system that stores, searches, and displays books in different ways using data structures and algorithms.
